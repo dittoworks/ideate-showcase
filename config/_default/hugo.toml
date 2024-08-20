@@ -1,7 +1,7 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://dittoworks.github.io/ideate-showcase'
+baseURL = 'https://showcase.ideate.xyz'
 # website title
 title = '✦ Designed with AI on ideate.xyz ✦'
 # don't touch this
